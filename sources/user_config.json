@@ -1,9 +1,9 @@
 {
-  "openai": "",
-  "elevenlabs": "",
+  "openai": null,
+  "elevenlabs": null,
   "voice": {
-    "origin": "elevenlabs",
-    "spec": "Drew"
+    "origin": "native",
+    "spec": "mb-fr1"
   },
   "wifi_configured": false,
   "tars personality": {
