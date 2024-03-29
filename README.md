@@ -1,4 +1,4 @@
-# Voice_Assistant_TARS
+# Voice_Assistant_TARS ![Tars_logo](https://github.com/Hypocrate-code/Voice_Assistant_TARS/blob/main/sources/local_web_server_for_config/static/assets/icon.svg)
 Notre participation, avec mes 2 deux camarades de classe [Mathilde Jeaunaux](https://www.instagram.com/mathilde_jnx/) et [Olivier Serra](https://www.instagram.com/olivier_sra/) au concours national [Les trophées NSI](https://trophees-nsi.fr/).  
 Il s'agit d'un assistant vocal nommé Tars (en référence au robot assistant l'équipe spatiale dans le film Interstellar) installable dès maintenant sur un Raspberry Pi 4, dont la personnalité (humour, sarcasme, etc...) ainsi que la voix sont customisables par l'utilisateur. Il a notamment pour but d'être plus éthique que les assistants vocaux proposés par les GAFAM, accusés à mainte reprise de surveillance audio par leurs utilisateurs.   
 * [Exemples de fonctionnalités](#fonctionnalités)
