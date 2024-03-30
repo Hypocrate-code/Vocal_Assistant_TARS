@@ -34,6 +34,13 @@ Pour télécharger le projet :
 
 Puis pour installer toutes les dépendances nécessaires, dans le dossier /sources :  
 `pip install -r requirements.txt`  
+
+Une fois fait, si vous êtes sur Windows, veuillez à changer dans le fichier tars_connected/call_to_speech.py "linux.ppn" par "win.ppn".  
+
+Sur linux, vous aurez probablement à télécharger quelques modules spécifiques à linux, en fonction de votre configuration, qui vous seront indiqués dans les messages d'erreur.  
+
+Tars est à présent prêt à être lancé depuis le dossier /sources avec la commande :
+`python3 start_tars.py`  
 ## <a id="premier-lancement">Lancer Tars pour la première fois :</a>
 Avant de lancer Tars pour la première fois, il faut suivre un protocole simple en quelques étapes :
 1. Branchez Tars à votre réseau via un cable ethernet. Il lui faut une connexion internet pour que vous puissiez accéder à son panneau de configuration.
